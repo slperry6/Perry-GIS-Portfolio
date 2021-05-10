@@ -13,4 +13,5 @@ More than anything, I hope to continue building my analytic ability well beyond 
 
 # Portfolio
 [Breakthrough Central Texas Custom Map](Perry-Assignment-1.md)
+[Enhancing Your Analytics Toolkit: Deciding What to Publish](Deciding.md)
 
