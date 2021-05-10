@@ -4,6 +4,8 @@
 ![Appendix](https://github.com/slperry6/Perry-GIS-Portfolio/blob/main/Images/Appendix.png)
 ![Test](https://github.com/slperry6/Perry-GIS-Portfolio/blob/main/Images/Test%20.png)
 
+## Training Cases
+
 *Case One: Updating the Homewood Community Profile*
 
 In 2010, Allegheny County DHS published a Homewood Community Profile “to assess demographic changes and examine quality of life issues-poverty, education, health care-in Homewood and in the City of Pittsburgh and Allegheny County to accurately assess the community’s assets and needs.” The report was requested by the Homewood Children’s Village. The map opens with community assets, churches, community centers, etc. and includes a map of concentration of human services usage in the community. The profile published quantitative data with visualizations and does not include qualitative data or recommendations. 
