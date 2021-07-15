@@ -1,7 +1,7 @@
 # Enhancing Your Analytics Toolkit: Deciding What to Publish
 Steps adapted from Michael C. Davis’ “7 Steps from Ethical Decision Making”
 
-![Alignment](https://github.com/slperry6/Perry-GIS-Portfolio/blob/main/Images/Alignment%20Opportunity.png)
+![Alignment](https://github.com/slperry6/Perry-GIS-Portfolio/blob/main/Images/Alignment%20Opportunity.png?raw=true)
 ![Appendix](https://github.com/slperry6/Perry-GIS-Portfolio/blob/main/Images/Appendix.png?raw=true)
 ![Test](https://github.com/slperry6/Perry-GIS-Portfolio/blob/main/Images/Test%20.png?raw=true)
 
