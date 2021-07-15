@@ -3,7 +3,8 @@ Steps adapted from Michael C. Davis’ “7 Steps from Ethical Decision Making�
 
 ![Alignment](https://github.com/slperry6/Perry-GIS-Portfolio/blob/main/Images/Alignment%20Opportunity.png)
 ![Appendix](https://github.com/slperry6/Perry-GIS-Portfolio/blob/main/Images/Appendix.png)
-![Test](https://github.com/slperry6/Perry-GIS-Portfolio/blob/main/Images/Test%20.png?raw=true)
+![Test](https://github.com/slperry6/Perry-GIS-Portfolio/blob/096a8a8611fc04fbac5685ba0ee39f186da183ce/Images/Test%20.png)
+
 
 ## Training Cases
 
